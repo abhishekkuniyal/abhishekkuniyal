@@ -4,9 +4,9 @@
 
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
-- 🔭 I’m currently working on **Next.js** and **React.js** projects.  
-- 🌱 I’m currently learning Neural-Network and Front-End .  
-- 👯 I’m looking to collaborate on **open-source projects**.  
+- 🔭 I’m currently working on **** and **React.js** projects.  
+- 🌱 I’m currently learning GenAi and Front-End .  
+- 👯 I’m looking to collaborate on ****.  
 
   
 
