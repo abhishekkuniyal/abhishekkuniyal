@@ -1,14 +1,28 @@
-# Hi there, I'm Abhishek 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter+Code&pause=1000&color=39aaff&width=435&lines=Hey+I'm+Abhishek;I+explore+things+on+the+web)](https://git.io/typing-svg)
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhishekkuniyal&color=2986cc"  />
+</div>
+
 
 ## About Me
 
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
-- 🔭 I’m currently working on **** and **React.js** projects.  
-- 🌱 I’m currently learning GenAi and Front-End .  
-- 👯 I’m looking to collaborate on ****.  
-
+- 🔭 I’m currently exploring **React.js**
+- 🌱 I’m currently learning GenAi and Front-End .
   
+
+  ## My Progress
+
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuniyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekkuniyal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+</div>
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39aaff&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
+
 
 ## 🛠️ Skills
 
@@ -33,10 +47,6 @@ I'm a passionate full-stack software developer with a strong interest in **web d
     <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
   </div>
-  
-## 📈 GitHub Stats
-
-Here are some of my GitHub stats to showcase my contributions and activity:
 
 
 ## 🚀 Projects
