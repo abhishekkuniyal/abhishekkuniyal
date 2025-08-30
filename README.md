@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter+Code&pause=1000&color=39aaff&width=435&lines=Hey+I'm+Abhishek;I+explore+things+on+the+web)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter+Code&pause=1000&color=56d8ff&width=435&lines=Hey+I'm+Abhishek👋;I+explore+things+on+the+web)](https://git.io/typing-svg)
+
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=abhishekkuniyal&color=2986cc"  />
@@ -21,7 +23,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 </div>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39aaff&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=56d8ff&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
 
 
 ## 🛠️ Skills
