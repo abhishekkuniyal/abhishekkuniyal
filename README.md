@@ -18,7 +18,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuniyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-<br>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal&theme=dark)](https://git.io/streak-stats)
 </div>
 <br><br>
