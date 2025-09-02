@@ -2,10 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter+Code&pause=1000&color=56d8ff&width=435&lines=Hey+I'm+Abhishek👋;I+explore+things+on+web)](https://git.io/typing-svg)
 
 
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megh-bari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=megh-bari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
-</div>
+
 
 
 ## About Me
@@ -20,9 +17,8 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 
 <div align="center" style="margin-bottom: 30px;">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal)](https://git.io/streak-stats)
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuniyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekkuniyal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
 </div>
 <br><br>
 
