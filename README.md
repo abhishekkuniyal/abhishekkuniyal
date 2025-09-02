@@ -19,7 +19,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 
 <div align="center" style="margin-bottom: 30px;">
-  https://streak-stats.demolab.com?user=abhishekkuniyal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekkuniyal" alt="GitHub Streak" /></a>
 </div>
 <br><br>
 
