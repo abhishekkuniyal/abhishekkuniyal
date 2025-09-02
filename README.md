@@ -20,9 +20,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 <div align="center" style="margin-bottom: 30px;">
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuniyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false"> </a>
-<br>
-<a href="https://streak-stats.demolab.com?user=abhishekkuniyal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12"> </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal)](https://git.io/streak-stats)
 </div>
 </div>
 <br><br>
