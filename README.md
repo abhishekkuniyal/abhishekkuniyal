@@ -10,7 +10,7 @@
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
 - 🔭 I’m currently exploring **React.js**
-- 🌱 I’m currently learning GenAi and Front-End .
+- 🌱 I’m currently learning Backend and Web3 .
   
 
   ## My Progress
