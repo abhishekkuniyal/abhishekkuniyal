@@ -43,8 +43,6 @@ I'm a passionate full-stack software developer with a strong interest in **web d
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />   
-    <img src="https://img.shields.io/badge/Machine_Learning-2C3E50?style=for-the-badge&logo=machine-learning&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Neural_Networks-2C3E50?style=for-the-badge&logo=neural-networks&logoColor=white" />  
     <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
   </div>
