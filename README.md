@@ -1,54 +1,99 @@
+<!-- Header -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter+Code&pause=1000&color=56d8ff&width=435&lines=Hey+I'm+Abhishek👋;I+explore+things+on+web)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════╗
+║          abhishekkuniyal / README.md                 ║
+╚══════════════════════════════════════════════════════╝
+```
 
+# I explore things on web 🌐
 
+*Building. Breaking. Learning. Repeating.*
 
+</div>
 
+---
 
-## About Me
+## 👤 About Me
 
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
-- 🔭 I’m currently exploring **React.js**
-- 🌱 I’m currently learning Backend and Web3 .
-  
+- 🛠️ &nbsp; Currently exploring **React.js**
+- 🌱 &nbsp; Currently learning **Backend** and **Web3**
+- ⚙️ &nbsp; Working on **backend** — building APIs, services & server-side logic
 
-  ## My Progress
+---
 
+## 📊 My Progress
 
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuniyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhishekkuniyal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkuniyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff)](https://github.com/abhishekkuniyal)
+
+<!-- Contribution Graph -->
+[![Abhishek's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkuniyal&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=e3b341)](https://github.com/abhishekkuniyal)
+
 </div>
-<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=56d8ff&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
+---
 
+## 🧠 Skill Growth
+
+| Area | Level | Progress |
+|------|-------|----------|
+| JavaScript / Python | 🟢 Advanced | `████████░░` 78% |
+| React / React Native | 🔵 Intermediate | `██████░░░░` 62% |
+| Backend · Node.js / REST APIs | 🟡 Intermediate | `█████░░░░░` 50% |
+| Machine Learning | 🟣 Beginner | `███░░░░░░░` 30% |
+| Web3 / Blockchain | 🔴 Beginner | `██░░░░░░░░` 22% |
+
+---
+
+## 💻 Languages
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&layout=donut&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6)](https://github.com/abhishekkuniyal)
+
+</div>
+
+---
 
 ## 🛠️ Skills
 
-- **Languages**:  
-  <div align="left"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-     <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />-->
-  </div>
-  </div>
+**Languages & Frameworks**
 
-- **Frameworks and Libraries**:  
-  <div align="left">
-    <!--<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> --> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />   
-    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
-  </div>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34c26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=563d7c)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white)
 
+**Tools & Platforms**
 
-## 🚀 Projects
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05033)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39d353)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-*Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
+<div align="center">
+
+```
+> Building. Breaking. Learning. Repeating.
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekkuniyal&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
+
+</div>
