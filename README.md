@@ -12,7 +12,7 @@
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
 - 🛠️ &nbsp; Currently exploring **React.js**
-- 🌱 &nbsp; Currently learning **Backend** and **Web3**
+- 🌱 &nbsp; Currently learning **Backend** 
 - ⚙️ &nbsp; Working on **backend** — building APIs, services & server-side logic
 
 ---
@@ -36,10 +36,9 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 | Area | Level | Progress |
 |------|-------|----------|
 | JavaScript / Python | 🟢 Advanced | `████████░░` 78% |
-| React / React Native | 🔵 Intermediate | `██████░░░░` 62% |
+| React  | 🔵 Intermediate | `██████░░░░` 50% |
 | Backend · Node.js / REST APIs | 🟡 Intermediate | `█████░░░░░` 50% |
-| Machine Learning | 🟣 Beginner | `███░░░░░░░` 30% |
-| Web3 / Blockchain | 🔴 Beginner | `██░░░░░░░░` 22% |
+
 
 ---
 
