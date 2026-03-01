@@ -1,11 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          abhishekkuniyal / README.md                 ║
-╚══════════════════════════════════════════════════════╝
-```
+
 
 # I explore things on web 🌐
 
@@ -47,10 +43,9 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 | Area | Level | Progress |
 |------|-------|----------|
 | JavaScript / Python | 🟢 Advanced | `████████░░` 78% |
-| React / React Native | 🔵 Intermediate | `██████░░░░` 62% |
+| React | 🔵 Intermediate | `██████░░░░` 50% |
 | Backend · Node.js / REST APIs | 🟡 Intermediate | `█████░░░░░` 50% |
-| Machine Learning | 🟣 Beginner | `███░░░░░░░` 30% |
-| Web3 / Blockchain | 🔴 Beginner | `██░░░░░░░░` 22% |
+
 
 ---
 
