@@ -1,11 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-
-
-# I explore things on web 🌐
-
-*Building. Breaking. Learning. Repeating.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=I+explore+things+on+web+%F0%9F%8C%90;Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,13 +21,10 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-<!-- GitHub Stats -->
 [![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkuniyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff)](https://github.com/abhishekkuniyal)
 
-<!-- Contribution Graph -->
 [![Abhishek's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkuniyal&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=e3b341)](https://github.com/abhishekkuniyal)
 
 </div>
@@ -43,9 +36,10 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 | Area | Level | Progress |
 |------|-------|----------|
 | JavaScript / Python | 🟢 Advanced | `████████░░` 78% |
-| React | 🔵 Intermediate | `██████░░░░` 50% |
+| React / React Native | 🔵 Intermediate | `██████░░░░` 62% |
 | Backend · Node.js / REST APIs | 🟡 Intermediate | `█████░░░░░` 50% |
-
+| Machine Learning | 🟣 Beginner | `███░░░░░░░` 30% |
+| Web3 / Blockchain | 🔴 Beginner | `██░░░░░░░░` 22% |
 
 ---
 
@@ -84,10 +78,6 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 ---
 
 <div align="center">
-
-```
-> Building. Breaking. Learning. Repeating.
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekkuniyal&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
