@@ -23,7 +23,10 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkuniyal&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkuniyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff)](https://github.com/abhishekkuniyal)
+<img
+  src="https://github-statspro.vercel.app/api/stats/abhishekkuniyal?theme=default"
+  alt="Stats Card"
+/>
 
 [![Abhishek's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkuniyal&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=e3b341)](https://github.com/abhishekkuniyal)
 
