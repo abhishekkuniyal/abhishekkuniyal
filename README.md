@@ -49,7 +49,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&layout=donut&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6)](https://github.com/abhishekkuniyal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&layout=donut&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6)]
 
 </div>
 
