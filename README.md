@@ -21,7 +21,7 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekkuniyal)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekkuniyal&theme=whatsapp-dark2)
 
 <img
   src="https://github-statspro.vercel.app/api/stats/abhishekkuniyal?theme=default"
