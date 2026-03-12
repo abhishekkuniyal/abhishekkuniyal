@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=I+explore+things+on+web+%F0%9F%8C%90)](https://git.io/typing-svg)
