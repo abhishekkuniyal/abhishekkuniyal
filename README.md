@@ -7,7 +7,7 @@
 
 
 
-## 👤 About Me
+## 👤 About Me: -
 
 I'm a passionate full-stack software developer with a strong interest in **web dev**, **machine learning**, and **block-chain**.
 
