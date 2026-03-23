@@ -31,9 +31,11 @@ I'm a passionate full-stack software developer with a strong interest in **web d
 [![Abhishek's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkuniyal&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=e3b341)](https://github.com/abhishekkuniyal)
 
 
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuniyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+-->
 
 
 
